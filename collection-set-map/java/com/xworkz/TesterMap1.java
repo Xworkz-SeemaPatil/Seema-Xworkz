@@ -24,7 +24,7 @@ public class TesterMap1 {
 		System.out.println(favouritePlaces.size());
 		favouritePlaces.forEach(e->System.out.println(e));
 		
-		System.out.println("LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL");
+		System.out.println("***************");
 		favouritePlaces=new LinkedHashSet<String>();
 		favouritePlaces.add("Mysore");
 		favouritePlaces.add("Hampi");
